@@ -1,6 +1,6 @@
 🎭🎭⚜️⚜️
 
-**My name is Andrew. I like thinking about high tech stuff and building things**
+**My name is Andrew, my interest is in developing OS scientific computing software packages and languages.**
   
 
   

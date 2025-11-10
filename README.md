@@ -4,4 +4,3 @@
   
 The majority of my experience comes from computational materials science research, but I enjoy studying and building other things as well.
   
-  

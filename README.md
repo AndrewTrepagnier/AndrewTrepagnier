@@ -1,6 +1,8 @@
 🎭🎭⚜️⚜️
 
-**My name is Andrew and I'm a Static Equipment Engineer for ExxonMobil. My interest is in developing open source scientific computing packages.**
+**My name is Andrew and I'm an Engineer for ExxonMobil**
+
+I have all sorts of interest: computational materials science, programming languages, FEA and other first-principles mechanical engineering calculations.
   
-The majority of my experience comes from computational materials science research, but I enjoy studying and building other things as well.
+I typically build stuff that help me in my day-to-day or just for fun. 
   
